@@ -1,0 +1,10 @@
+# simulation data (deposited on Zenodo, too large for git)
+output/
+logs/
+# build products
+simulation/wolff_ising
+simulation/metropolis_ising
+*.o
+*.mod
+__pycache__/
+*.pyc

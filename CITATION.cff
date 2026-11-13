@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Consensus-Ising: simulation and analysis code"
+version: 1.0.0
+date-released: 2026-11-14
+license: MIT
+authors:
+  - family-names: Ashraf
+    given-names: Ashveed
+    affiliation: "Department of Physics, GITAM University, Bengaluru, India"
+preferred-citation:
+  type: article
+  title: "Consensus in Effective Model Inference for Disordered Ising Systems"
+  authors:
+    - family-names: Ashraf
+      given-names: Ashveed
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2609.10731"

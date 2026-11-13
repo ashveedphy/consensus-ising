@@ -1,5 +1,7 @@
 # Consensus in Effective Model Inference for Disordered Ising Systems
 
+[![DOI](https://zenodo.org/badge/1457104103.svg)](https://doi.org/10.5281/zenodo.24207891)
+
 Simulation and analysis code for
 
 > A. Ashraf, *Consensus in Effective Model Inference for Disordered Ising Systems*, arXiv:2609.10731.
